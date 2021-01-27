@@ -1,37 +1,36 @@
 {
 	"info": {
-	"url_png_icon_64x64": "http(s) url to pool icon; not animated; max 40kb",
-	"url_png_logo": "http(s) url to pool logo; not animated; max 50kb",
-	"location": "São Paulo - Brazil",
-	"social": {
-	"twitter_handle": "@adabr_pool",
-	"telegram_handle": "https://t.me/cardanobrasilpool",
-	"facebook_handle": "",
-	"youtube_handle": "",
-	"twitch_handle": "",
-	"discord_handle": "",
-	"github_handle": ""
-	},
-	"company": {
-		"name": "",
-		"addr": "",
-		"city": "São Paulo",
-		"country": "Brazil",
-		"company_id": "",
-		"vat_id": ""
-	},
-	"about": {
-		"me": "...",
-		"server": "",
-		"company": "..."
-	},
-	"rss": "http(s) url to valid RSS feed"
+		"url_png_icon_64x64": "https://imgur.com/Uq5iSSs",
+		"url_png_logo": "https://imgur.com/qnieqf0",
+		"location": "São Paulo - Brazil",
+		"social": {
+			"twitter_handle": "@adabr_pool",
+			"telegram_handle": "https://t.me/cardanobrasilpool",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "São Paulo",
+			"country": "Brazil",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "...",
+			"server": "",
+			"company": "..."
+		}
 	},
 	"my-pool-ids": {
-		"0": "d20ea3c57e2a21a3aa30a97ae9ab2e989c8b6cb56a4cdd29ed17839f",
+		"0": "d20ea3c57e2a21a3aa30a97ae9ab2e989c8b6cb56a4cdd29ed17839f"
 	},
 	"when-satured-then-recommend": {
-		"0": "5b60373e718a3647ec57f610b9942f91286748ddeaa0ad226acb927b",
+		"0": "5b60373e718a3647ec57f610b9942f91286748ddeaa0ad226acb927b"
 	},
 	"telegram-admin-handle": {
 		"0": "@binatof"
