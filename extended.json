@@ -22,7 +22,7 @@
 		},
 		"about": {
 			"me": "Software engineer who loves the Cardano network. Join me and let's make this pool a benchmark in performance. We can make the world better with Cardano.",
-			"server": "",
+			"server": "Currently our computers are hosted on the VM cloud. As we are a small pool to reduce costs we use 4GB ram / 40GB ssd. We have two separate computers, for block production and for relays. Pool is automated to handle any drop by reestablishing its connection with the nodes.",
 			"company": "We want to help endangered species, secure the network and still profit at the end of the day to invest more in Cardano. Our proposal puts into practice what this project has given us, freedom."
 		}
 	},
