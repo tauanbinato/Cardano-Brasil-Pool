@@ -1,0 +1,57 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://i.ibb.co/KFzTsws/Mini-64x64-Cardano-Brasil-Pool-Logo.png",
+		"url_png_logo": "https://i.ibb.co/9ycLmsV/capa-twitter.png",
+		"location": "São Paulo - Brazil",
+		"social": {
+			"twitter_handle": "adabr_pool",
+			"telegram_handle": "cardanobrasilpool",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "São Paulo",
+			"country": "Brazil",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "My name is Tauan BF, i'am a Software Engineer with 3+ years experience in tech industry who loves the Cardano project. Join me and let's make this pool a benchmark in performance/rewards. We can make the world better with Cardano.",
+			"server": "Our pool is automated to handle any drop, reestablishing the connection with the nodes. We take all security measures to strengthen our Linux servers against intrusions, DDO's and other vulnerabilities. We use the hybrid workflow to make any changes in the pool or sign transactions, this means that all high-value keys are on a personal computer without internet access. We use HW to maintain our pledges and further increase the security of the pool. Currently our computers are hosted on the VM cloud. As we are a small group to reduce costs we use two computers with 4GB RAM / 80GB SSD configuration. Separate configuration for producing blocks and relays. Please support small pools like ours, at the beginning you will have less frequent gains but of much larger values.",
+			"company": "We want to help endangered species, secure the network and still profit at the end of the day to invest more in Cardano. Our proposal puts into practice what this project has given us, freedom. The pool is currently maintained by me but I have help from several friends in the design and marketing area."
+		}
+	},
+	"my-pool-ids": {
+		"0": "d20ea3c57e2a21a3aa30a97ae9ab2e989c8b6cb56a4cdd29ed17839f"
+	},
+	"when-satured-then-recommend": {
+		"0": "5b60373e718a3647ec57f610b9942f91286748ddeaa0ad226acb927b"
+	},
+	"telegram-admin-handle": {
+		"0": "@binatof"
+	},
+	"adapools_ext": {
+		"prometheus": {
+			"0": {
+				"name": "relay 1 eu",
+				"type": "relay",
+				"key": "example_get_own_on_adapools.org/connect"
+			},
+			"1": {
+				"name": "relay 2 usa",
+				"type": "relay",
+				"key": "example_get_own_on_adapools.org/connect"
+			},
+			"2": {
+				"name": "block producer home",
+				"type": "bp",
+				"key": "example_get_own_on_adapools.org/connect"
+			}
+		}
+	}
+}
